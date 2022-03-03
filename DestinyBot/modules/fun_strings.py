@@ -1,5 +1,6 @@
 RUN_STRINGS = (
-    "Now you see me, now you don't.", "ε=ε=ε=ε=┌(;￣▽￣)┘",
+    "Now you see me, now you don't.",
+    "ε=ε=ε=ε=┌(;￣▽￣)┘",
     "Get over here!",
     "Nigheroooooooo!!!!!!",
     "Look out for the wall!",
@@ -27,7 +28,7 @@ GIFS = [
     "CgACAgUAAx0CU_rCTAABAjdgX1s4NVaeCls6YaH3p43vgdCRwQIAAqsAA4P_MFUYQhyoR-kgpRsE",
     "CgACAgUAAx0CU_rCTAABAjdSX1s3fq5iEJ64YeQLKI8cD7CSuSEAAlUBAAJu09hW5iqWB0hTPD4bBA",
     "CgACAgQAAx0CY2kfkQACA81iBIz0YP_fRSp0ugSbj7QqmB0RwwAC-wIAAoNwvVK5kEmgsGl6tyME",
-    "CgACAgQAAx0CY2kfkQACA9BiBI0Wq1gMLVdKVALAnOtdZQABn8kAAsgCAAIhfjVTqg-aXh5k3PgjBA"
+    "CgACAgQAAx0CY2kfkQACA9BiBI0Wq1gMLVdKVALAnOtdZQABn8kAAsgCAAIhfjVTqg-aXh5k3PgjBA",
 ]
 
 SLAP_SAITAMA_TEMPLATES = (
@@ -43,7 +44,7 @@ SLAP_SAITAMA_TEMPLATES = (
         "Urusei!",
         "Baka ka Omae? Why slapping me?",
         "Yeah, Noob... Get wrecked!!",
-        "Are waah.... Bhaimya!!!"
+        "Are waah.... Bhaimya!!!",
     ],
 )
 
@@ -129,8 +130,7 @@ SLAP_TEMPLATES = (
     "{user1} {throws} a master ball at {user2}, resistance is futile.",
     "{user1} hits {user2} with an action beam...bbbbbb (ง・ω・)ง ====*",
     "{user1} ara ara's {user2}.",
-    "{user1} Kamehame ha's {user2}."
-    "{user1} ora ora's {user2}.",
+    "{user1} Kamehame ha's {user2}." "{user1} ora ora's {user2}.",
     "{user1} muda muda's {user2}.",
     "{user2} was turned into a Jojo reference!",
     "{user1} hits {user2} with {item}.",
@@ -203,7 +203,7 @@ PAT_GIFS = (
     "CgACAgQAAx0CY2kfkQACA9diBI6bU-hg3zyK1KC0vhvac_w3JgACTwMAArL4tFKQj-2FTJFrViME",
     "CgACAgQAAx0CY2kfkQACA9hiBI6cRYhyN2yKRRINneEpNsIK6AACEgMAAjgk3VIjeqiqw1sV_SME",
     "CgACAgQAAx0CY2kfkQACA9liBI6fuPJW7Di2haYcS250Jf3gBgACAwMAApzrtFI7x0zvXF1KvyME",
-    "CgACAgQAAx0CY2kfkQACA9piBI6gLs9Hm28G43s8tAcxRzo-6wAC-wIAAoaivVI2rsRPncJY_CME"
+    "CgACAgQAAx0CY2kfkQACA9piBI6gLs9Hm28G43s8tAcxRzo-6wAC-wIAAoaivVI2rsRPncJY_CME",
 )
 
 PAT_STICKERS = (
